@@ -1,4 +1,4 @@
-telergam_token = '5800510923:AAGGIu2AuPktr_F6RmeJvwR-pbO-m5Q8D6o'
+telergam_token = '223322'
 start_mess = " Привет! Я маленький бот-калькулятор. Несмотря на то, что я маленький, я могу очень многое. \n /start - перезапуск бота \n /help - подсказка по использованию"
 help_mess = "Калькулятор способен вычислить выражения, содержащие вещественные и комплексные числа с использованием множества математических функций: {sin,cos,tan}(float|complex): float|complex – trigonometric sine, cosine or tangent. {arcsin,arccos,arctan}(float|complex): float|complex – trigonometric inverse sine, cosine or tangent. arctan2(float1, float2): float – trigonometric inverse tangent of float1/float2. {sinh,cosh,tanh}(float|complex): float|complex – hyperbolic sine, cosine or tangent. {arcsinh,arccosh,arctanh}(float|complex): float|complex – hyperbolic inverse sine, cosine or tangent. {log,log10,log1p}(float|complex): float|complex – natural, base-10 and log(1+x) logarithms. {exp,expm1}(float|complex): float|complex – exponential and exponential minus one."
 error_mess = "Ошибка! Повторите ввод: "
